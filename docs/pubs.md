@@ -1,5 +1,6 @@
 ---
-layout: page
+#layout: page
+layout: default
 title: Recent Publications
 permalink: /pubs/
 ---

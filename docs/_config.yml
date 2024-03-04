@@ -32,9 +32,11 @@ url: "https://jzwanzig.github.io" # the base hostname & protocol for your site, 
 github_username:  jzwanzig
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: pages-themes/minimal
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
