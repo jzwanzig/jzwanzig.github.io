@@ -2,7 +2,8 @@
 #layout: page
 layout: default
 title: Contact us
-permalink: /contact/
+rank: 3
+#permalink: /contact/
 ---
 Welcome to the Zwanziger Laboratory.
 

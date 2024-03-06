@@ -2,7 +2,8 @@
 #layout: page
 layout: default
 title: Recent Publications
-permalink: /pubs/
+rank: 2
+#permalink: /pubs/
 ---
 Recent publications from the Zwanziger Laboratory.
 
