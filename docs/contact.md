@@ -1,15 +1,17 @@
 ---
-#layout: page
 layout: default
 title: Contact us
-rank: 3
-#permalink: /contact/
+rank: 4
 ---
 
 ### We are located in the [Department of Chemistry](https://dal.ca/faculty/science/chemistry.html) at [Dalhousie University](https://dal.ca).
 
-[![Chemistry Building](/assets/images/DalChemBuilding.jpg)](https://dal.ca/faculty/science/chemistry.html)
-
+<center>
+<a href="https://dal.ca/faculty/science/chemistry.html">
+<img src="assets/images/DalChemBuilding.jpg" alt="Chemistry Building" width="400"/>
+</a>
+</center>
+<br>
 Contact Joe Zwanziger at
 <ul> 
 <li style="list-style-type: none;"> <a href = "mailto: jzwanzig@dal.ca">jzwanzig@dal.ca</a>
@@ -30,7 +32,6 @@ Shipping address:
 <li style="list-style-type: none;"> Chemical Storage Facility </li>
 <li style="list-style-type: none;"> 6245 Castine Way </li>
 <li style="list-style-type: none;"> Dalhousie University</li>
-<li style="list-style-type: none;"> PO Box 15000</li>
 <li style="list-style-type: none;"> Halifax, NS B3H 4R5 Canada</li>
 </ul>
 

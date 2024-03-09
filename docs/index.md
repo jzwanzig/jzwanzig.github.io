@@ -8,7 +8,7 @@ layout: default
 rank: 1
 ---
 <center>
-<img src="assets/images/pbo-elf.png" alt="PbO-ELF" width="400"/>
+<img src="assets/images/stishovite-den-abinit.png" alt="Stishovite" width="400"/>
 </center>
 
 ## Welcome!
