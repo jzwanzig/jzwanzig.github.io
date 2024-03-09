@@ -1,0 +1,61 @@
+#$magres-abinitio-v1.0
+[calculation]
+calc_code ABINIT
+calc_code_version 9.11.6.1
+calc_xc_functional PBE
+calc_cutoff_energy 30 Ha
+[/calculation]
+[atoms]
+units lattice Angstrom 
+lattice 4.8122 0 0 0 4.8122 0 0 0 7.6157
+units atom Angstrom
+symmetry x+1/2, -y+1/2, -z+3/4
+symmetry -x+1/2, y+1/2, -z+1/4
+symmetry -y, -x, -z+1/2
+symmetry y, x, -z
+symmetry y+1/2, -x+1/2, z+3/4
+symmetry -y+1/2, x+1/2, z+1/4
+symmetry -x, -y, z+1/2
+symmetry x, y, z
+atom Te Te  1 2.54036 2.27184 5.71177
+atom Te Te  2 2.27184 2.54036 1.90392
+atom Te Te  3 4.67794 4.67794 3.80785
+atom Te Te  4 0.13426 0.13426 0
+atom O O  1 3.10387 1.1453 4.28764
+atom O O  2 1.70833 3.66689 0.479789
+atom O O  3 3.5514 4.11443 2.38371
+atom O O  4 1.2608 0.697769 6.19156
+atom O O  5 3.66689 1.70833 7.13591
+atom O O  6 1.1453 3.10387 3.32806
+atom O O  7 4.11443 3.5514 5.23198
+atom O O  8 0.697769 1.2608 1.42414
+[/atoms]
+[magres]
+units efg au
+efg Te 1 0 0 0 0 0 0 0 0 0
+efg Te 2 0 0 0 0 0 0 0 0 0
+efg Te 3 0 0 0 0 0 0 0 0 0
+efg Te 4 0 0 0 0 0 0 0 0 0
+efg O 1 -0.209317 -0.700243 -0.353082 -0.700243 -0.044266 0.693702 -0.353082 0.693702 0.253584
+efg O 2 0 0 0 0 0 0 0 0 0
+efg O 3 0 0 0 0 0 0 0 0 0
+efg O 4 0 0 0 0 0 0 0 0 0
+efg O 5 0 0 0 0 0 0 0 0 0
+efg O 6 0 0 0 0 0 0 0 0 0
+efg O 7 0 0 0 0 0 0 0 0 0
+efg O 8 0 0 0 0 0 0 0 0 0
+units ms ppm
+ms Te 1 2140.26 -448.263 115.609 -448.263 2140.26 115.609 162.642 162.642 2157.62
+ms Te 2 0 0 0 0 0 0 0 0 0
+ms Te 3 0 0 0 0 0 0 0 0 0
+ms Te 4 0 0 0 0 0 0 0 0 0
+ms O 1 0 0 0 0 0 0 0 0 0
+ms O 2 0 0 0 0 0 0 0 0 0
+ms O 3 0 0 0 0 0 0 0 0 0
+ms O 4 0 0 0 0 0 0 0 0 0
+ms O 5 0 0 0 0 0 0 0 0 0
+ms O 6 0 0 0 0 0 0 0 0 0
+ms O 7 0 0 0 0 0 0 0 0 0
+ms O 8 0 0 0 0 0 0 0 0 0
+[/magres]
+
