@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact us
-rank: 4
+rank: 5
 ---
 
 ### We are located in the [Department of Chemistry](https://dal.ca/faculty/science/chemistry.html) at [Dalhousie University](https://dal.ca).
