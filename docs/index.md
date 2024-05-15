@@ -16,7 +16,7 @@ rank: 1
 We are a laboratory at [Dalhousie University](https://www.dal.ca),
 working at the intersection of chemistry, physics, and materials science.
 
-We are particularly interested in how the chemical bonding in glass materials,
+We are particularly interested in how the chemical bonding in a glass material,
 determines both its local structure and its optical response, especially
 when the material is under various stress loads.
 
