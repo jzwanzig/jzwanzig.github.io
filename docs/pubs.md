@@ -32,6 +32,8 @@ M. N. Garaga, U. Werner-Zwanziger, J. W. Zwanziger, A. DeCeanne, B. Hauke, K. Bo
 
 ### Theory and Modelling
 
+- [Relativistic effects on the magnetic shielding in solids: First-principles computation in a plane wave code](https://doi.org/10.1016/j.jmr.2025.107861),
+J. W. Zwanziger, A. R. Farrant, and U. Werner-Zwanziger, *J. Magn. Reson.* **374**, 107861 (2025).
 - [Orbital magnetism and chemical shielding in the projector augmented-wave formalism](https://doi.org/10.1103/PhysRevB.107.165157),
 J. W. Zwanziger, M. Torrent, and X. Gonze, *Phys. Rev. B* **107**, 165157 (2023).
 - [The Relative Thermodynamic Stability of Diamond and Graphite](https://doi.org/10.1002/ange.202009897),
