@@ -32,19 +32,16 @@ M. N. Garaga, U. Werner-Zwanziger, J. W. Zwanziger, A. DeCeanne, B. Hauke, K. Bo
 
 ### Theory and Modelling
 
-- [DFT calculations and theory do not support enantiospecificity in NMR J-coupling constants](https://www.nature.com/articles/s41467-025-66247-0),
-F. A. Perras, J. W. Zwanziger, and A. J. Rossini, *Nature commun.* **16**, 10032 (2025).
 - [Relativistic effects on the magnetic shielding in solids: First-principles computation in a plane wave code](https://doi.org/10.1016/j.jmr.2025.107861),
 J. W. Zwanziger, A. R. Farrant, and U. Werner-Zwanziger, *J. Magn. Reson.* **374**, 107861 (2025).
+- [DFT calculations and theory do not support enantiospecificity in NMR J-coupling constants](https://www.nature.com/articles/s41467-025-66247-0),
+F. A. Perras, J. W. Zwanziger, and A. J. Rossini, *Nature commun.* **16**, 10032 (2025).
+- [Abinit 2025: New capabilities for the predictive modeling of solids and nanomaterials](https://doi.org/10.1063/5.0288278),
+the Abinit development community: M. J. Verstraete, X. Gonze, J. W. Zwanziger, and many others, *J. Chem. Phys.* **163**, 164126 (2025).
 - [Orbital magnetism and chemical shielding in the projector augmented-wave formalism](https://doi.org/10.1103/PhysRevB.107.165157),
 J. W. Zwanziger, M. Torrent, and X. Gonze, *Phys. Rev. B* **107**, 165157 (2023).
 - [The Relative Thermodynamic Stability of Diamond and Graphite](https://doi.org/10.1002/ange.202009897),
 M. A. White, S. Kahwaji, V. L. S. Freitas, R. Siewert, J. A. Weatherby, M. D. M. C. Ribeiro da Silva, 
 S. P. Verevkin, E. R. Johnson, and J. W. Zwanziger, *Angew. Chem. Int. Ed.* **60** 1546–1549 (2021).
-- [ABINIT: Overview and focus on selected capabilities](https://doi.org/10.1063/1.5144261),
-A. Romero, X. Gonze, J. W. Zwanziger, *et al.*, *J. Chem. Phys.* **152**, 124102 (2020).
-- [Understanding the elastic and thermal response in TiC-based ceramic-metal 
-composite systems: First-principles and mechanical studies](https://doi.org/10.1016/j.jallcom.2019.03.092),
-T.Z. Todorova, M. Gaier, J.W. Zwanziger, and K.P. Plucknett, *J. Alloys Cmpds.* **789**, 712 (2019).
 
 
