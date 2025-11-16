@@ -32,6 +32,8 @@ M. N. Garaga, U. Werner-Zwanziger, J. W. Zwanziger, A. DeCeanne, B. Hauke, K. Bo
 
 ### Theory and Modelling
 
+- [DFT calculations and theory do not support enantiospecificity in NMR J-coupling constants](https://www.nature.com/articles/s41467-025-66247-0),
+F. A. Perras, J. W. Zwanziger, and A. J. Rossini, *Nature commun.* **16**, 10032 (2025).
 - [Relativistic effects on the magnetic shielding in solids: First-principles computation in a plane wave code](https://doi.org/10.1016/j.jmr.2025.107861),
 J. W. Zwanziger, A. R. Farrant, and U. Werner-Zwanziger, *J. Magn. Reson.* **374**, 107861 (2025).
 - [Orbital magnetism and chemical shielding in the projector augmented-wave formalism](https://doi.org/10.1103/PhysRevB.107.165157),
