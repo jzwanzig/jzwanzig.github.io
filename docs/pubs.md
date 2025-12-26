@@ -17,6 +17,8 @@ A. L. Paterson and J. W. Zwanziger, *J. Appl. Phys.* **124**, 083106 (2018).
 
 ### Structural Studies of Glass
 
+- [Asymmetric Bonding in Glassy TeO2 and the Search for Conjectured Terminal Oxygen](https://doi.org/10.1021/acs.jpcc.5c07227),
+A. R. Farrant and J. W. Zwanziger, *J. Phys. Chem. C*, (2025).
 - [The Czjzek distribution in solid-state NMR: Scaling properties of central and satellite 
 transitions](https://doi.org/10.1016/j.jnoncrysol.2020.120383),
 U. Werner-Zwanziger, A. L. Paterson, J. W. Zwanziger, *J. Non-Cryst. Solids* **550**, 120383 (2020).
